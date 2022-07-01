@@ -1,0 +1,5 @@
+! Title: Adguardhome-Whitelist
+! Homepage: https://jihulab.com/fap/adguardhome-whitelist
+! Expires: 24 Hours
+! Total count: 1
+@@||tianqi.2345.com^$important
